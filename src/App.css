@@ -1,0 +1,18 @@
+.board {
+  text-align: center;
+  margin: 10rem -12%;
+  width: 126%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+  justify-content: center;
+  align-items: center;
+  -ms-flex-line-pack: distribute;
+  /* align-content: space-around;  */
+  -ms-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+}
+
+div {
+  text-align: center;
+}
